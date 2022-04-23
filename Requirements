@@ -1,0 +1,46 @@
+# INTRODUCTION:
+- In today’s world almost all of the large scaled companies are holding only the assembly lines in their own plants and most of the production and manufacturing facilities are provided by the SMEs.
+- In order to compute within each other, subcontractors have to show on-time response in quotations with high accuracy in delivery and cost estimations to be able to do such co-operations with the large-scaled companies.
+- Kongsberg Automotive, KA, is a Norwegian company producing miscellaneous solutions and engineering facilities for automotive industry. The research and development facilities of the company are held in the plant located in Mullsjö, Sweden.
+- KA has identified a need of support in quotation making process for car seat-heaters in order to reduce design lead-time and increase the accuracy in cost-estimation.
+- In order to meet the company’s need, in School of Engineering, Jönköping, an application program is developed which is called ProceedoStudio.
+- The project is involved with the estimation of wiring pattern, wire properties, manufacturing data and the manufacturing costs of a new product.
+- The wiring pattern of the system is provided with an algorithm.
+- The objective with this project is either to explore new approaches or improve already existing algorithm for wiring pattern of the car seat heaters which is not sufficient enough. 
+# DESIGN AUTOMEACHINE:
+- There are many definitions of design automation in different areas in sciences like electrical engineering to concepts and so on in other knowledge.
+- In mechanical engineering, in the case of product development, the definition could be more close in the order of Using the CAD systems and IT knowledge in automating and managing the design.
+- Design automation reduce the important feature cost, lead time, and manage the large amount of information by using tools, and organized concept simultaneously.
+- Using CAD/CAM tools has lots of efficient to achieve the goals. Other advantages are succeeding in:
+- Reduce design life cycle that makes products serviceable to other purposes.
+- Choice of the design, manufacturing process of product is improved.
+- Cut the number of testing down to increase the accuracy.
+- Making the congenial of the design specification and customer requirements.
+- Providing easy feedback to meet manufacturing ability limitation.
+- Simplifying the modification on the product design from the feedback requirements.
+- To understand the new methods by accomplish and use of computer’s programming and CAD software to improve producibility.
+- Utilizing the design automation to meet automated design variant in the case of using modeling and managing the of the knowledge are two important aspects for increasing life cycle requirements in 6 design automation, and the result to use as knowledge base to achieve the desirable requirements with the respect to customer specification. 
+# FINAL SOULTION:
+- Final solution that is proposed in this project is sufficient for the designer in terms of pattern design and preparing a fast and reasonable quotation.
+- The program created is:
+- simple, user friendly and easy to use
+- independent from program knowledge (user does not have know about programming or modeling)
+- reduces design and quotation lead time
+- allows the user to work with different types of layouts
+- does not follow the outer contour one by one but still the created pattern is efficient and tolerable in terms of wire length.
+# CONCULSION:
+- Even though this project ended in another point than considered, the result is quite sufficient for the user to create an automated wiring for a defined seat heater layout.
+- The reached point shows that the created design is applicable for different layouts, depending on the height and width of the elements separately.
+- All the elements in a structure are defined so that they are independent from each other and can be modified in terms of constraints.
+- This means that the user is free to change the height and width values of the shapes separately in a structure, thus the layout is modified and is re-dimensioned.
+- Once the program is ran, wiring pattern is created, according to the nodes in the new layout.
+- As the scope of the project is to find the best solution for wiring that follows the outer contour of the layout and fulfills the inner area uniformly, the created ideas are tried to be implemented in this direction.
+- Different attempts made in trial process were challenged by the objections and didn’t give a sufficient result as it is defined in programming phase.
+- The created design for the pattern is defined with horizontal and vertical lines, and the windings as curves.
+- Although the project also proposes a solution for trapezoidal shapes, it is not given as a standard solution in full structure examples considering the other possible edge-shapes like curves.
+- The structures used as examples intentionally contain curves and slope lines within the shape stating the gaps still exist.
+- Even though the wiring is uniformly distributed within the shape.
+- In brief, the result is a sufficient solution for automating the design process of wiring in a heat seat layout. 
+- Simple to use, modifiable and makes the design process faster for the user.
+- Thus the quotation process becomes faster and easier for the designer as the length of the wiring is achieved in a short while.
+- Combined with the ongoing project ProceedoStudio in engineering school, the type of the wire is also defined and the necessary requirements are fulfilled for whole quotation process.
